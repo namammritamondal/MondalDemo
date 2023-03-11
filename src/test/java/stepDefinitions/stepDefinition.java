@@ -10,6 +10,7 @@ public class stepDefinition {
 	@Given("^User is on net banking landing page$")
     public void user_is_on_net_banking_landing_page() throws Throwable {
     System.out.println("validated home page");
+    System.out.println("second commit");
 	}
 
     @When("^User login application with username password$")
