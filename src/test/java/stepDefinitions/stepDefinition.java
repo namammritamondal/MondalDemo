@@ -17,7 +17,7 @@ public class stepDefinition {
 
     @When("^User login application with username password$")
     public void user_login_application_with_username_password() throws Throwable {
-        
+    	System.out.println("third commit from 2nd user"); 
     }
 
     @Then("^Home page is populated$")
