@@ -12,6 +12,7 @@ public class stepDefinition {
     System.out.println("validated home page");
     System.out.println("second commit");
     System.out.println("second second commit");
+    System.out.println("Pull by 2nd resource for updated code");
 	}
 
     @When("^User login application with username password$")
